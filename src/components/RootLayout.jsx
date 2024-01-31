@@ -31,9 +31,7 @@ const Header = ({
 </Logo>
         </Link>
         <div className="flex items-center gap-x-8">
-          <Button href={"/admission"} invert={invert}>
-            Admission
-          </Button>
+          
           <button
             ref={toggleRef}
             type="button"
