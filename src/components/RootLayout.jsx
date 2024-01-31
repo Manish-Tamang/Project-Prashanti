@@ -91,7 +91,7 @@ const Navigation = () => {
       </NavigationRow>
       <NavigationRow>
         <NavigationItem href="/">News and Events</NavigationItem>
-        <NavigationItem href="/admission">Admission</NavigationItem>
+        {/* <NavigationItem href="/admission">Admission</NavigationItem> */}
       </NavigationRow>
     </nav>
   );
